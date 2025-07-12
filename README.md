@@ -1,4 +1,6 @@
 # AI Network Traffic Analysis Project
+(Due to size limit issue)
+PROJECT FOLDER DRIVE LINK : https://drive.google.com/drive/folders/1jNjLN_Vsu1YOl-CVvC1Kfkb72o3_yZfS?usp=drive_link
 
 ## 🚀 Project Overview
 
@@ -52,7 +54,7 @@ ai_network_traffic_project/
 Due to GitHub's file size limitations, the complete project with datasets, reports, and videos is available on Google Drive:
 
 ### 📂 Complete Project Folder
-**Google Drive Link**: 
+**Google Drive Link**: https://drive.google.com/drive/folders/1jNjLN_Vsu1YOl-CVvC1Kfkb72o3_yZfS?usp=drive_link
 
 
 The drive folder contains:
