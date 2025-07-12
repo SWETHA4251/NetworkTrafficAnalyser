@@ -45,8 +45,7 @@ ai_network_traffic_project/
 ├── processed/                      # Preprocessed datasets
 ├── preprocessing/                  # Data preprocessing scripts
 ├── results/                        # Model evaluation results
-├── templates/                      # Web interface templates
-└── DriveLink_forReport_viedo_PPT/  # External resources
+└── templates/                      # Web interface templates
 ```
 
 ## 🔗 External Resources
